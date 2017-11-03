@@ -8,4 +8,4 @@ elm package install
 elm reactor
 ```
 
-Then navigate to [localhost:8000] and select `Main.elm`.
+Then navigate to http://localhost:8000 and select `Main.elm`.
